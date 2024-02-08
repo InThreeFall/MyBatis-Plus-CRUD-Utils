@@ -1,4 +1,4 @@
-# MyBatis-Plus-CRUD-Utils
+# MyBatis-Plus-CRUD-Utils（不如用人家的CRUD接口）
 适用与Spring框架下的MyBatis-Plus，利用反射简化增删改查
 
 使用方法：
